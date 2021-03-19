@@ -40,6 +40,7 @@ validation-report.json
 # Folders to ignore
 node_modules
 .sass-cache
+.jekyll-cache
 
 # Dev stuff
 Makefile
@@ -47,3 +48,7 @@ Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e8/da826bf32bd6f435aeea1ab538c796d3a5de85cf18c5cacd83c489cd3f73da
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e8/da826bf32bd6f435aeea1ab538c796d3a5de85cf18c5cacd83c489cd3f73da

@@ -2,7 +2,7 @@
 layout: post
 title: "Post: Modified Date"
 categories:
-  - Post Formats
+  - blog
 tags:
   - Post Formats
   - readability

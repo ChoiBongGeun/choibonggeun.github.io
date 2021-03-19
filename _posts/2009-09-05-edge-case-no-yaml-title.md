@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-  - Edge Case
+  - blog
 tags:
   - edge case
   - layout
