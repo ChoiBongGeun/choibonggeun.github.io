@@ -2,7 +2,7 @@
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
 categories:
-  - Springboot
+  - blog
 tags:
   - content
   - css
