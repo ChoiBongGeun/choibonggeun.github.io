@@ -76,11 +76,13 @@ v6 변경된 코드
 1. `<Redirect />` 없어지며 `<Navigate />`를 활용해야 한다
     - Redirect의 경우 replace가 기본 로직이지만(prop을 통해 push로 변경 가능)  
     Navigate의 경우 push가 기본 로직(prop을 통해 replace로 변경 가능)    
-    - 기존 코드 
+    - 기존 코드  
+
     ```javascript
     <Redirect  path ="*" to ="/" />
     ```
-    - 변경된 코드
+    - 변경된 코드  
+    
     ```javascript
     <Route path="*" element={<Navigate to="/" replace />}/>
     ```
