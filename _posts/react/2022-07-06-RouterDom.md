@@ -2,7 +2,7 @@
 layout: post
 title: "react-router-dom v6"
 categories:
-  - react
+  - React
 tags:
   - react v18
   - react
@@ -38,8 +38,6 @@ v6 변경된 코드
 ### Switch -> Routes 변경되면서 바뀐점 
 - 순서대로 매칭이 아닌 가장 일치하는 항목에 매칭
     - 잘못된 순서로 배치하여 발생하는 버그 방지
-
-<br/>
 
 ## 경로 및 링크 
 ---
@@ -82,7 +80,7 @@ v6 변경된 코드
     <Redirect  path ="*" to ="/" />
     ```
     - 변경된 코드  
-    
+
     ```javascript
     <Route path="*" element={<Navigate to="/" replace />}/>
     ```
@@ -90,4 +88,4 @@ v6 변경된 코드
 이외에도 변경 사항이 많지만 아직은 공부중이며 직접 테스트 및 사용을 해보지 않아    
 직접 사용해본 기능들만 정리 했으며 공부하는 대로 추가할 예정 
 
-참고 사이트 : https://reactrouter.com/docs/en/v6/upgrading/v5#upgrade-to-react-router-v6
+참고 사이트 : <https://reactrouter.com/docs/en/v6/upgrading/v5#upgrade-to-react-router-v6>
