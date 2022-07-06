@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            passerby14
+title:            choibonggeun
 tagline:          'A Jekyll theme'
 description:      '백엔드 및 프론트'
-url:              https://passerby14.github.io
+url:              https://choibonggeun.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,7 +15,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'passerby14'
+  name:           'choibonggeun'
   url:            
 
 paginate:         5
